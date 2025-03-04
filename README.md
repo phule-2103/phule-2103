@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS**
 
-- 👯 I’m looking to collaborate on **ReactJS, NextJS**
+- 👯 I’m looking to collaborate on **ReactJS, NextJS, Java**
 
 - 🤝 I’m looking for help with **ReactJS**
 
